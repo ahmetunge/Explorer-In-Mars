@@ -1,0 +1,10 @@
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\bin\Debug\VoyagerInMars.exe.config
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\bin\Debug\VoyagerInMars.exe
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\bin\Debug\VoyagerInMars.pdb
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.Form1.resources
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.exe
+C:\Users\Ahmet\source\repos\VoyagerInMars\VoyagerInMars\obj\Debug\VoyagerInMars.pdb
