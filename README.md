@@ -14,6 +14,26 @@
   
   Letter M let is a step forward in the direction of the robotics navigator.
   
-  t is assumed that the robotic traveler goes 1 step in the direction of north (N) when it is located in the coordinate (x, y + 1) from (x, y).
+  It is assumed that the robotic traveler goes 1 step in the direction of north (N) when it is located in the coordinate (x, y + 1) from (x, y).
   
+  <h3>Getting Started</h3>
+  
+  This project writng by c#,winform and used OOP principle
+  
+  Just download the project and start it.
+  
+Test Input:
 
+5 5
+1 2 N
+LMLMLMLMM
+3 3 E
+MMRMMRMRRM
+
+Expected Output:
+
+1 3 N
+5 1 E
+
+
+```
